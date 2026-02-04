@@ -18,6 +18,7 @@ Running the script:
  - filename examples: AR30T_20250612T123030.870_flat.fits ; SP30T_20250612T123030.890_flat.fits
 
 Created by Fernando Lopez (Universidad de Mendoza-CONICET & Observatorio Astronómico Félix Aguilar) 
+Based in work done by Ian Grinkraut (Universidade Presbiteriana Mackenzie - CRAAM)
 Last Modification: 2025-12-03
 
 """
