@@ -17,7 +17,7 @@ Running the script:
  - Using outdir as base the script will create (if not existing) the following directories: outdir + /telescope/yyyymmdd/level00/
  - filename examples: AR30T_20250612T123030.870_level00.fits ; SP30T_20250612T123030_level00.fits
 
-Created by Ian Grinkraud (CRAAM-Universidade Presbiteriana Mackenzie)
+Created by Ian Grinkraut (CRAAM-Universidade Presbiteriana Mackenzie)
 Modified by Fernando Lopez (Universidad de Mendoza-CONICET & Observatorio Astronómico Félix Aguilar) 
 Last Modification: 2025-12-02
 
